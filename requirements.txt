@@ -2,5 +2,5 @@ streamlit
 tensorflow==2.15.0
 tensorflow-hub
 pillow
-numpy
+numpy<2.0.0
 setuptools
